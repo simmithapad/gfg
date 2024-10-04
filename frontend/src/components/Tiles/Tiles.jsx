@@ -14,19 +14,17 @@ const Tiles = () => {
                 }}>
           <div className="tile-content">
             <h2>Daily Sports</h2>
-            <p>Click to go to Page 1</p>
           </div>
         </Link>
         
         <Link to="/adventuresports" className="tile" 
             style={{
-                backgroundImage: 'url(/images/adventuresports.jpg)',
+                backgroundImage: 'url(/images/adventuresport.jpg)',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center'
                 }}>
           <div className="tile-content">
             <h2>Adventure Sports</h2>
-            <p>Click to go to Page 2</p>
           </div>
         </Link>
       </div>

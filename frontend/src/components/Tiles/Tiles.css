@@ -1,8 +1,8 @@
-.page-background {
+ .page-background {
     background-image: url('../../assets/bg.jpg');
     background-size: cover;
     background-position: center;
-    min-height: 100vh; /* Make sure it covers the full viewport height */
+    min-height: 100vh; 
     display: flex;
     justify-content: center;
     align-items: center;
