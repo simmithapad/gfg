@@ -6,7 +6,7 @@ import Home from './pages/Home/Home'
 import Page2 from './pages/Home/Home2.jsx'
 // import Cart from './pages/Cart/Cart'
 // import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
-// import Footer from './components/Footer/Footer'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -21,7 +21,7 @@ const App = () => {
           {/* <Route path='/order' element={<PlaceOrder />} /> */}
         </Routes>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </>
   )
 }
