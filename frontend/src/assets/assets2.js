@@ -53,3 +53,15 @@ export const menu_list = [
         menu_image: rappeling
     }
 ];
+// export const food_list = [
+//     {
+//         _id: "1",
+//         name: "Rafting 1",
+//         image: r1, 
+//         price: 1000,
+//         description: "High-quality gym equipment for strength training.",
+//         category: "Rafting"
+//     }
+// ];
+
+export const url = 'http://localhost:4000'
