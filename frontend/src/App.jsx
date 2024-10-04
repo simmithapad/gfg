@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/Navbar'
 import { Route, Routes } from 'react-router-dom'
 import Tiles from './components/Tiles/Tiles.jsx';
 import Home from './pages/Home/Home'
-import Page2 from './pages/AdventureSport/Home.jsx'
+import Page2 from './pages/Home/Home2.jsx'
 // import Cart from './pages/Cart/Cart'
 // import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 // import Footer from './components/Footer/Footer'
