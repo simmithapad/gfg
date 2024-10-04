@@ -29,13 +29,22 @@ import yoga4 from './yoga4.jpeg'
 import Fitness from './Fitness.png'
 import Bike from './Bike.png'
 import Sports from './Sports.png'
+import facebook_icon from './facebook_icon.png'
+import linkedin_icon from './linkedin_icon.png'
+import twitter_icon from './twitter_icon.png'
+import logo from './logo.png'
+
 
 
 export const assets ={
     rating_starts,
     add_icon_white,
     remove_icon_red,
-    add_icon_green
+    add_icon_green,
+    facebook_icon,
+    linkedin_icon,
+    twitter_icon,
+    logo
 }
 export const menu_list = [
     {
