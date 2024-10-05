@@ -10,3 +10,7 @@ This project aims to provide a platform for B2C business for daily and adventure
 3. Streamlined package selection for various adventure sports.
 4. Reviews and ratings feature to ensure authenticity and trustworthiness.
 5. Transparent booking and transaction process for a seamless experience.
+
+# UI
+
+<img src="https://github.com/simmithapad/gfg/blob/master/frontend/src/assets/ss.jpg" alt="Logo" width="100" />
