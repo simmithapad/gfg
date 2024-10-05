@@ -1,6 +1,6 @@
-# GearUpGo: Adventure starts with the right gear
+<img src="https://github.com/simmithapad/gfg/blob/master/frontend/src/assets/logo.png" alt="Logo" width="100" />
 
-![Logo](https://github.com/simmithapad/gfg/blob/master/frontend/src/assets/logo.png)
+# GearUpGo: Adventure starts with the right gear
 
 This project aims to provide a platform for B2C business for daily and adventure sports equipment rentals and services. 
 
