@@ -13,4 +13,4 @@ This project aims to provide a platform for B2C business for daily and adventure
 
 # UI
 
-<img src="https://github.com/simmithapad/gfg/blob/master/frontend/src/assets/ss github.png" alt="Logo" width="50" />
+<img src="https://github.com/simmithapad/gfg/blob/master/frontend/src/assets/ss github.png" />
